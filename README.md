@@ -1,1 +1,19 @@
-# proj-robotica-webots
+# Busca pela Caixa de Madeira Leve – Webots
+
+Projeto desenvolvido para a disciplina **CC7711 – Inteligência Artificial e Robótica**.
+
+## 🎯 Objetivo
+
+Programar um robô no **Webots** que:
+
+- Procure uma **caixa de madeira leve**;
+- **Pare** de procurar ao encontrá-la;
+- **Gire sobre o próprio eixo** como indicação de sucesso.
+
+## 👥 Grupo: L T660 J
+
+- **Luan Petroucic Moreno**  
+- **Caue Jacomini Zanatti**  
+- **Vinicius Henrique Silva**
+
+🔗 Link para o vídeo de demonstração: X
