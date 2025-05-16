@@ -14,6 +14,6 @@ Programar um robô no **Webots** que:
 
 - **Luan Petroucic Moreno**  
 - **Caue Jacomini Zanatti**  
-- **Vinicius Henrique Silva**
+- **Vinicius Henrique Silva** 22.122.063-5
 
 🔗 Link para o vídeo de demonstração: X
