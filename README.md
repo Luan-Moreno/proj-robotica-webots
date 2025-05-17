@@ -12,7 +12,7 @@ Programar um robô no **Webots** que:
 
 ## 👥 Grupo: L T660 J
 
-- **Luan Petroucic Moreno**  
+- **Luan Petroucic Moreno**  22.122.076-7
 - **Caue Jacomini Zanatti**  
 - **Vinicius Henrique Silva** 22.122.063-5
 
